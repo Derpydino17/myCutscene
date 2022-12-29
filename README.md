@@ -1,2 +1,2 @@
-# myCutscene
+# cutscene
 Project Sweathshirt Cutscenes
